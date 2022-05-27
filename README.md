@@ -17,3 +17,4 @@ PS: unchecked items mean they are currently not fully completed. Those languages
 
 # Notes
 CodeStudio hasn't been fully completed currently. It is advised that the application and the files you have modified will be crashed and cleared. Please backup your important files before doing so.
+
