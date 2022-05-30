@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodeStudio</string>
+    <string name="drawer_empty_file_message">Empty</string>
+    <string name="editor_option_menu_undo">Undo </string>
+    <string name="editor_option_menu_redo">Redo </string>
+    <string name="editor_option_menu_file_manager">File Manager</string>
+    <string name="editor_option_menu_format">Format </string>
+    <string name="editor_option_menu_find">Search </string>
+    <string name="editor_option_menu_setting">Setting </string>
+</resources>
