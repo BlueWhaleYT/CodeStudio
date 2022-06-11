@@ -12,12 +12,12 @@ CodeStudio 是一個運用 TextMate 的 Android 編輯器。
 - [ ] Font Previewer
 
 ## Special Thanks | 特別鳴謝
-- CodeEditor for [Rosemoe](https://github.com/Rosemoe/sora-editor)
+- CodeEditor by [Rosemoe](https://github.com/Rosemoe/sora-editor)
 - Material Palenight Theme by [material-theme](https://github.com/material-theme/vsc-material-theme)
 - Material Theme Icons by [PKief](https://github.com/PKief/vscode-material-icon-theme)
 
 ## Notes | 注意
-- CodeStudio hasn't been fully completed currently. It is advised that the files you have modified will be crashed and cleared. Please backup them before doing so.
+- CodeStudio hasn't been fully completed currently. It is advised that backing up the files you have modified since they're likely to be crashed and cleared.
   <br>
   CodeStudio 現時仍然處於開發階段，或會對檔案造成損毀和崩潰，建議先備份檔案使用。
 - CodeStudio isn't an IDE currently.
