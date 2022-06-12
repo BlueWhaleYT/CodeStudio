@@ -14,6 +14,7 @@ CodeStudio 是一個運用 [TextMate] 的 Android 編輯器。
 ## Features | 功能
 - [x] Syntax Highlighters for **supported languages**.
 - [ ] Code Completion
+- [ ] Theme Customization
 - [ ] Regex Matcher
 - [ ] HTML Web Previewer
 - [ ] Font Previewer
