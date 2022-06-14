@@ -17,9 +17,11 @@ CodeStudio 是一個設有線上編繹器，運用 [TextMate] 的 Android 編輯
 - [x] Syntax Highlighters for **supported languages**
 - [ ] Code Completion
 - [ ] Theme Customization
-- [ ] Regex Matcher
-- [ ] HTML Web Previewer
-- [ ] Font Previewer
+- [x] Regex Matcher
+- [x] HTML Web Previewer
+- [ ] Bitmap Image Previewer
+- [x] Font Previewer
+- [ ] Internal (Android/data/data) files access
 
 ## Special Thanks | 特別鳴謝
 - CodeEditor by [Rosemoe]
