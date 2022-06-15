@@ -8,6 +8,8 @@
 <!-- Body content -->
 # CodeStudio
 
+<img src="http://forthebadge.com/images/badges/built-for-android.svg" />
+
 CodeStudio is a code editor for Android utilizing [TextMate] and providing online compilers for compiling codes.
 
 CodeStudio 是一個設有線上編繹器，運用 [TextMate] 的 Android 編輯器。
