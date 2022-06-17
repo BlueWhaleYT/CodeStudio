@@ -25,6 +25,9 @@ CodeStudio 是一個設有線上編繹器，運用 [TextMate] 的 Android 編輯
 - [x] Font Previewer
 - [ ] Internal (Android/data/data) files access
 
+## Contribution | 貢獻
+You can help add languages for CodeStudio, the default language file is located in [here](https://github.com/BlueWhaleYT/CodeStudio/blob/main/strings.xml).
+
 ## Special Thanks | 特別鳴謝
 - CodeEditor by [Rosemoe]
 - Material Palenight Theme by [material-theme]
