@@ -1,51 +1,50 @@
 <resources>
     <string name="app_name">CodeStudio</string>
-	<string name="drawer_empty_file_message">Empty</string>
-	<string name="drawer_option_menu_search_file">Search</string>
-	<string name="drawer_option_menu_file_action_title">Select an action</string>
-	<string name="drawer_option_menu_create_file">Create</string>
-	<string name="drawer_option_menu_delete_file">Delete</string>
+    <string name="drawer_empty_file_message">Empty</string>
+    <string name="drawer_option_menu_search_file">Search</string>
+    <string name="drawer_option_menu_file_action_title">Select an action</string>
+    <string name="drawer_option_menu_create_file">Create</string>
+    <string name="drawer_option_menu_delete_file">Delete</string>
 	
-        <string name="editor_option_menu_undo">Undo </string>
-        <string name="editor_option_menu_redo">Redo </string>
-	<string name="editor_option_menu_syntax_selector">Syntax </string>
-	<string name="editor_option_menu_compile">Compiler </string>
-	<string name="editor_option_menu_file_manager">File Manager</string>
-        <string name="editor_option_menu_format">Format </string>
-        <string name="editor_option_menu_find">Search </string>
-	<string name="editor_option_menu_regex_matcher">Regex Matcher</string>
-        <string name="editor_option_menu_setting">Setting </string>
+    <string name="editor_option_menu_undo">Undo </string>
+    <string name="editor_option_menu_redo">Redo </string>
+    <string name="editor_option_menu_compile">Compiler </string>
+    <string name="editor_option_menu_file_manager">File Manager</string>
+    <string name="editor_option_menu_format">Format </string>
+    <string name="editor_option_menu_find">Search </string>
+    <string name="editor_option_menu_regex_matcher">Regex Matcher</string>
+    <string name="editor_option_menu_setting">Setting </string>
 	
-	<string name="regex_matcher_toolbar_title">Regex Matcher</string>
-	<string name="regex_matcher_toolbar_match_count">Matches</string>
-	<string name="regex_matcher_toolbar_match_result">Result</string>
-	<string name="regex_matcher_input_regex">Enter regular expression</string>
-	<string name="regex_matcher_input_content">Enter content</string>
-	<string name="regex_matcher_match_button">Match</string>
-	<string name="regex_matcher_option_menu_cheatsheet_launcher">CheatSheet</string>
+    <string name="regex_matcher_toolbar_title">Regex Matcher</string>
+    <string name="regex_matcher_toolbar_match_count">Matches</string>
+    <string name="regex_matcher_toolbar_match_result">Result</string>
+    <string name="regex_matcher_input_regex">Enter regular expression</string>
+    <string name="regex_matcher_input_content">Enter content</string>
+    <string name="regex_matcher_match_button">Match</string>
+    <string name="regex_matcher_option_menu_cheatsheet_launcher">CheatSheet</string>
 	
-	<string name="bottom_sheet_compiler_title">Program Output</string>
-	<string name="bottom_sheet_compiler_button">Refresh</string>
+    <string name="bottom_sheet_compiler_title">Program Output</string>
+    <string name="bottom_sheet_compiler_button">Refresh</string>
 	
-	<string name="preferences_setting_category_app_title">App</string>
-	<string name="preferences_setting_category_editor_title">Editor</string>
+    <string name="preferences_setting_category_app_title">App</string>
+    <string name="preferences_setting_category_editor_title">Editor</string>
 	
-	<string name="preferences_setting_app_lang_title">Language</string>
+    <string name="preferences_setting_app_lang_title">Language</string>
 	
-	<string name="preferences_setting_fontsize_title">Font Size</string>
-	<string name="preferences_setting_fontsize_summary">Change the font size of the editor</string>
-	<string name="preferences_setting_zoom_enable_title">Enable Zoom</string>
-	<string name="preferences_setting_zoom_enable_summary">Zoom the editor with two fingers</string>
-	<string name="preferences_setting_word_wrap_enable_title">Word Wrap</string>
-	<string name="preferences_setting_ligature_enable_title">Enable Ligature</string>
+    <string name="preferences_setting_fontsize_title">Font Size</string>
+    <string name="preferences_setting_fontsize_summary">Change the font size of the editor</string>
+    <string name="preferences_setting_zoom_enable_title">Enable Zoom</string>
+    <string name="preferences_setting_zoom_enable_summary">Zoom the editor with two fingers</string>
+    <string name="preferences_setting_word_wrap_enable_title">Word Wrap</string>
+    <string name="preferences_setting_ligature_enable_title">Enable Ligature</string>
 	
-	<string name="dialog_new_file_title">New File</string>
-	<string name="dialog_new_file_message">Current file path</string>
-	<string name="dialog_new_folder_title">New Folder</string>
-	<string name="dialog_new_file_input">Enter file name</string>
-	<string name="dialog_delete_file_title">Delete File</string>
-	<string name="dialog_delete_file_message">Current file</string>
-	<string name="dialog_delete_file_loading_title">Loading</string>
-	<string name="dialog_delete_file_loading_message">Deleting files</string>
+    <string name="dialog_new_file_title">New File</string>
+    <string name="dialog_new_file_message">Current file path</string>
+    <string name="dialog_new_folder_title">New Folder</string>
+    <string name="dialog_new_file_input">Enter file name</string>
+    <string name="dialog_delete_file_title">Delete File</string>
+    <string name="dialog_delete_file_message">Current file</string>
+    <string name="dialog_delete_file_loading_title">Loading</string>
+    <string name="dialog_delete_file_loading_message">Deleting files</string>
 	
 </resources>
