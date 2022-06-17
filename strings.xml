@@ -38,6 +38,7 @@
     <string name="preferences_setting_word_wrap_enable_title">Word Wrap</string>
     <string name="preferences_setting_ligature_enable_title">Enable Ligature</string>
 	
+    <string name="dialog_syntax_error_title">Syntax Error</string>
     <string name="dialog_new_file_title">New File</string>
     <string name="dialog_new_file_message">Current file path</string>
     <string name="dialog_new_folder_title">New Folder</string>
