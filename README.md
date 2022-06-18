@@ -14,6 +14,12 @@ CodeStudio is a code editor for Android utilizing [TextMate] and providing onlin
 
 CodeStudio 是一個設有線上編繹器，運用 [TextMate] 的 Android 編輯器。
 
+## Screenshots | 預覽
+<div style="overflow: hidden;">
+<img src="/screenshots/codestudio_screenshot_01.jpg" alt="General Preview" width="40%" align="bottom" />
+<img src="/screenshots/codestudio_screenshot_02.jpg" alt="General Preview" width="40%" align="bottom" />
+</div>
+
 ## Features | 功能
 - [x] Online Compilers for **supported languages**
 - [x] Syntax Highlighters for **supported languages**
