@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "New Update! v1.4.1",
+  "Title": "New Update! v1.4.0",
   "Description": "There is a new update, do you want to update?",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://github.com/BlueWhaleYT/CodeStudio/releases",
-  "Version": "1.4.1"
+  "Version": "1.4.0"
 }
