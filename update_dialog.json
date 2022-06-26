@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "New Update! v1.4.1",
+  "Description": "There is a new update, do you want to update?",
   "MainTextButton": "Update",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
