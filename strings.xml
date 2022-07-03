@@ -1,5 +1,5 @@
 <resources>
-    	<string name="app_name">CodeStudio</string>
+    <string name="app_name">CodeStudio</string>
 	<string name="drawer_empty_file_message">Empty</string>
 	<string name="drawer_menu_previous_path">Back</string>
 	<string name="drawer_option_menu_search_file">Search</string>
@@ -7,16 +7,16 @@
 	<string name="drawer_option_menu_create_file">Create</string>
 	<string name="drawer_option_menu_delete_file">Delete</string>
 	
-    	<string name="editor_option_menu_undo">Undo </string>
-    	<string name="editor_option_menu_redo">Redo </string>
+    <string name="editor_option_menu_undo">Undo </string>
+    <string name="editor_option_menu_redo">Redo </string>
 	<string name="editor_option_menu_syntax_selector">Syntax </string>
 	<string name="editor_option_menu_compile">Compiler </string>
 	<string name="editor_option_menu_file_manager">File Manager</string>
 	<string name="editor_option_menu_line_navigator">Line Navigator </string>
-    	<string name="editor_option_menu_format">Format </string>
-    	<string name="editor_option_menu_find">Search </string>
+    <string name="editor_option_menu_format">Format </string>
+    <string name="editor_option_menu_find">Search </string>
 	<string name="editor_option_menu_regex_matcher">Regex Matcher</string>
-    	<string name="editor_option_menu_setting">Setting </string>
+    <string name="editor_option_menu_setting">Setting </string>
 	
 	<string name="editor_position_label_line">Ln</string>
 	<string name="editor_position_label_column">Col</string>
