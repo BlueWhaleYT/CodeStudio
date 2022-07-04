@@ -16,7 +16,7 @@ CodeStudio 是一個設有線上編譯器，運用 [TextMate] 的 Android 編輯
 
 ## Screenshots | 預覽
 <div style="overflow: hidden;">
-<img src="/screenshots/codestudio_screenshot_01.jpg" alt="General Preview" style="border-radius: 4px;" width="40%" align="bottom" />
+<img src="/screenshots/codestudio_screenshot_java.jpg" alt="General Preview" style="border-radius: 4px;" width="40%" align="bottom" />
 <img src="/screenshots/codestudio_screenshot_02.jpg" alt="General Preview" style="border-radius: 4px;" width="40%" align="bottom" />
 </div>
 
