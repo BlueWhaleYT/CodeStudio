@@ -70,5 +70,7 @@
 	<string name="dialog_delete_file_message">Current file</string>
 	<string name="dialog_delete_file_loading_title">Loading</string>
 	<string name="dialog_delete_file_loading_message">Deleting files</string>
+
+        <string name="dialog_editor_embed_text">Extracted Methods</string>
 	
 </resources>
