@@ -72,5 +72,10 @@
 	<string name="dialog_delete_file_loading_message">Deleting files</string>
 
         <string name="dialog_editor_embed_text">Extracted Methods</string>
+        <string name="dialog_editor_java_annotation">Annotations</string>
+	<string name="dialog_editor_java_field">Fields</string>
+	<string name="dialog_editor_java_class">Classes</string>
+	<string name="dialog_editor_java_constructor">Constructors</string>
+	<string name="dialog_editor_java_method">Methods</string>
 	
 </resources>
