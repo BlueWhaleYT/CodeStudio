@@ -33,6 +33,8 @@ CodeStudio 是一個設有線上編譯器，運用 [TextMate] 的 Android 編輯
 
 ## Contribution | 貢獻
 You can help add languages for CodeStudio, the default language file is located in [here](https://github.com/BlueWhaleYT/CodeStudio/blob/main/strings.xml).
+<br>
+Starting from `v1.4.0`, you can contribute to Material Light theme for CodeStudio.
 
 ## Special Thanks | 特別鳴謝
 - CodeEditor by [Rosemoe]
