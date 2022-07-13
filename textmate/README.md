@@ -17,3 +17,6 @@ The current and needed enhancement: `Material Light`, a light theme that's for L
 | Cyan | #39adb5 |
 | Gray | #aabfc9 |
 | Black | #272727 |
+
+## Get started
+The action you only do is that replace the relative colors from Material Palenight to Material Light, you can find the Material Palenight file in `/storage/emulated/0/CodeStudio/textmate/themes/` 
