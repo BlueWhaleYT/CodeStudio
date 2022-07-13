@@ -19,4 +19,5 @@ The current and needed enhancement: `Material Light`, a light theme that's for L
 | Black | #272727 |
 
 ## Get started
-The action you only do is that replace the relative colors from Material Palenight to Material Light, you can find the Material Palenight file in `/storage/emulated/0/CodeStudio/textmate/themes/` 
+The action you only need to do is that replacing the relative colors from Material Palenight to Material Light, you may find the Material Palenight file in `/storage/emulated/0/CodeStudio/textmate/themes/`.
+Copy its content and paste it to `MaterialLight.tmTheme` after forking this repository. Thereby modify it and start a pull request for it.
